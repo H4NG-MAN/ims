@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.4
-versionCode=5
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=ims
+name=ims HD notification removal
+version=v3.0
+versionCode=3
+author=AiSauce(E7KMbb)
+description=Remove HD notifications for prisoners without affecting VoLTE's normal work
